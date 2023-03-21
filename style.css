@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+  }
+  
+  .quiz-screen {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .hide {
+    display: none;
+  }
+  
+  button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 10px;
+  }
+  
+  .answer-btn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+  
+  #timer {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
